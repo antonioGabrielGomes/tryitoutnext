@@ -1,0 +1,23 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  padding: 6rem;
+  min-height: 100vh;
+}
+
+.title {
+  color: '#0070f3';
+  text-decoration: none;
+}
+
+.main ul {
+  list-style: none;
+  margin: 0;
+}
+
+.main li {
+  display: inline-block;
+  margin: 20px;
+}
